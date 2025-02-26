@@ -1,8 +1,8 @@
-# Event API
+# Events API
 
 ## Visão Geral
 
-Event é uma API REST desenvolvida em Spring Boot que permite a criação e gerenciamento de eventos, oferecendo funcionalidades para convidar participantes através de links personalizados e acompanhar um ranking dos usuários que mais trouxeram novos participantes.
+Events é uma API REST desenvolvida em Spring Boot que permite a criação e gerenciamento de eventos, oferecendo funcionalidades para convidar participantes através de links personalizados e acompanhar um ranking dos usuários que mais trouxeram novos participantes.
 
 ## Funcionalidades Principais
 
